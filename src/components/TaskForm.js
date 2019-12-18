@@ -16,7 +16,7 @@ class TaskForm extends React.Component {
     }
 
     render() {
-
+        console.log(this.state.value);
         return (
             <div class="container">
                 <form className="form-horizontal" >
