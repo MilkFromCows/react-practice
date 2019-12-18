@@ -1,3 +1,6 @@
+
+/**
+
 .App {
   text-align: center;
 }
@@ -15,13 +18,13 @@
 
 .App-header {
   background-color: #282c34;
-  /* 
+   
   background: repeating-linear-gradient(45deg,
                                         yellow 0px,
                                         yellow 50px,
                                         #282c34 50px,
                                         #282c34 100px);
-                                        */
+                                        
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -43,3 +46,4 @@
     transform: rotate(360deg);
   }
 }
+*/
